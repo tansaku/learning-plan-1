@@ -1,4 +1,4 @@
-# learning-plan
+# Learning Plan
 
 ## Areas that need improvement 
 - Everything
